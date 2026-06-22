@@ -1,52 +1,75 @@
-# Gustavo Ben
+# Gustavo Ben 👨‍💻
 
-## Olá, eu sou o Gustavo 👋
-
-Sou estudante de programação e estou construindo meu caminho como desenvolvedor com foco em **Java**, **lógica de programação**, **programação orientada a objetos** e **desenvolvimento full stack**.
-
-Neste GitHub, estou organizando minha evolução de forma pública: desde exercícios de base até projetos próprios mais completos. Meu objetivo é transformar cada estudo em prática, cada prática em projeto e cada projeto em um portfólio que mostre minha evolução real como desenvolvedor.
+**Java student | Building projects and a full stack portfolio**
 
 ---
 
-## 🚀 O que estou estudando agora
+## 🚀 About me
+
+I'm currently building my path as a developer, focusing on **Java**, **programming logic**, **object-oriented programming**, **Git/GitHub**, and **full stack development**.
+
+This GitHub is where I’m organizing my growth in public: from study exercises and programming practice to personal projects built to strengthen both my technical skills and my portfolio.
+
+My goal is to turn every study session into practice, every practice into a project, and every project into proof of progress.
+
+---
+
+## 📚 Currently studying
 
 * Java
-* Lógica de programação
-* Programação Orientada a Objetos
-* Git e GitHub
-* Estruturação de projetos para portfólio
-* Desenvolvimento Full Stack
+* Programming Logic
+* Object-Oriented Programming
+* Git & GitHub
+* Project organization for portfolio
+* Full Stack development fundamentals
 
 ---
 
+## 🛠️ Technologies and tools
 
-### 🧪 Java Exercícios
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
 
-Repositório dedicado aos exercícios e programas desenvolvidos durante meus estudos de Java. A ideia é organizar minha evolução por temas, praticar Git/GitHub e consolidar a base de lógica, condicionais, loops, arrays e POO.
+---
+
+## 📌 Featured projects
+
+### 🧪 Java Exercises
+
+Repository dedicated to exercises and programs developed during my Java studies.
+The idea is to organize my evolution by topic, practice Git/GitHub, and strengthen my foundations in logic, conditionals, loops, arrays, and OOP.
 
 ### ⚡ Pokedex Full Stack
 
-Meu primeiro projeto próprio com proposta full stack. A ideia é desenvolver uma Pokédex funcional com front-end, back-end, integração com API e foco em transformar estudo em projeto de portfólio.
+My first personal full stack project.
+The goal is to build a functional Pokédex with front-end, back-end, API integration, and a structure that reflects my transition from study to portfolio-ready projects.
 
 ---
 
-## 📚 Atualmente focado em
+## 🎯 Current goals
 
-* fortalecer minha base em Java
-* organizar meus repositórios como portfólio
-* desenvolver projetos próprios com mais estrutura
-* evoluir de exercícios para aplicações completas
+* Build a strong foundation in Java
+* Learn Git and GitHub through real project organization
+* Turn my repositories into a professional portfolio
+* Move from exercises to complete applications
+* Develop projects with better structure, documentation, and presentation
 
 ---
 
-## 🌐 Contato
+## 🌐 Contact
 
-* **GitHub:** [github.com/GustavoBenAbraham](https://github.com/GustavoBenAbraham)
+* **GitHub:** [GustavoBenAbraham](https://github.com/GustavoBenAbraham)
 * **Instagram:** [@ben_abrahan](https://www.instagram.com/ben_abrahan)
 * **ORCID:** [0009-0002-8023-217X](https://orcid.org/0009-0002-8023-217X)
 
 ---
 
-## ⚙️ Em construção
+## ⚙️ In progress
 
-Este perfil está em evolução junto com meus estudos. Em breve, você vai encontrar aqui meus repositórios organizados, projetos próprios e experimentos que representam meu processo de crescimento como desenvolvedor.
+This profile is evolving alongside my studies.
+Soon, you’ll find here my repositories, personal projects, experiments, and the practical steps of my growth as a developer.

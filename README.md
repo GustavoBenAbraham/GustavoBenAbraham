@@ -39,10 +39,6 @@ My goal is to turn every study session into practice, every practice into a proj
 
 ## 📌 Featured projects
 
-### 🧪 Java Exercises
-
-Repository dedicated to exercises and programs developed during my Java studies.
-The idea is to organize my evolution by topic, practice Git/GitHub, and strengthen my foundations in logic, conditionals, loops, arrays, and OOP.
 
 ### ⚡ Pokedex Full Stack
 

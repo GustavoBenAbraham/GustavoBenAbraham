@@ -37,7 +37,9 @@ My goal is to turn every study session into practice, every practice into a proj
 
 ---
 
-## 📌 Featured projects
+## ⚡ Highlights
+
+- Criei um script de automação (`.bat` + Git) para versionar meus exercícios de Java automaticamente, eliminando o processo manual repetitivo de upload.
 
 
 ### ⚡ Pokedex Full Stack

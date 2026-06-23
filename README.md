@@ -39,11 +39,10 @@ My goal is to turn every study session into practice, every practice into a proj
 
 ## ⚡ Highlights
 
-- Criei um script de automação (`.bat` + Git) para versionar meus exercícios de Java automaticamente, eliminando o processo manual repetitivo de upload.
+- I created an automation script (.bat + Git) to automatically version my Java exercises, eliminating the repetitive manual upload process.
 
 
-### ⚡ Pokedex Full Stack
-
+### ⚡ Pokedex Full Stack - 🔗 Featured Project
 My first personal full stack project.
 The goal is to build a functional Pokédex with front-end, back-end, API integration, and a structure that reflects my transition from study to portfolio-ready projects.
 

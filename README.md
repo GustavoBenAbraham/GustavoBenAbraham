@@ -62,7 +62,6 @@ The goal is to build a functional Pokédex with front-end, back-end, API integra
 ## 🌐 Contact
 
 * **GitHub:** [GustavoBenAbraham](https://github.com/GustavoBenAbraham)
-* **Instagram:** [@ben_abrahan](https://www.instagram.com/ben_abrahan)
 * **ORCID:** [0009-0002-8023-217X](https://orcid.org/0009-0002-8023-217X)
 
 ---

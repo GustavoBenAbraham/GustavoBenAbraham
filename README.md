@@ -1,6 +1,6 @@
 # Gustavo Ben 👨‍💻
 
-**Java student | Building projects and a full stack portfolio**
+**Java student | Building projects**
 
 ---
 

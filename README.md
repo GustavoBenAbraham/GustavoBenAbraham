@@ -69,12 +69,17 @@ Sou um desenvolvedor **Java** em constante evolução, construindo meu caminho n
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoBenAbraham&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&cache_seconds=7200" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBenAbraham&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&cache_seconds=7200" />
-</div>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoBenAbraham&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=ff6b6b&currStreakLabel=3b82f6" />
+  
+  <br><br>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Total%20Contributions-62-3b82f6?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Current%20Streak-1%20day-ff6b6b?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Longest%20Streak-5%20days-22c55e?style=for-the-badge" />
+  </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoBenAbraham&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=ff6b6b&currStreakLabel=3b82f6&cache_seconds=7200" />
 </div>
 ---
 

@@ -101,7 +101,6 @@ API REST com Java Spring Boot + Frontend com JavaScript puro consumindo a PokeAP
 
 API REST completa para gerenciamento de tarefas | Em desenvolvimento 🚧
 
-&lt;/div&gt;
 
 ---
 

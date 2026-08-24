@@ -66,7 +66,6 @@ Sou um desenvolvedor **Java** em constante evolução, construindo meu caminho n
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -77,7 +76,6 @@ Sou um desenvolvedor **Java** em constante evolução, construindo meu caminho n
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoBenAbraham&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=ff6b6b&currStreakLabel=3b82f6&cache_seconds=7200" />
 </div>
-
 ---
 
 ## 🚀 Projetos em Destaque

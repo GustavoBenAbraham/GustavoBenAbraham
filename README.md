@@ -82,8 +82,6 @@ Sou um desenvolvedor **Java** em constante evolução, construindo meu caminho n
 
 ## 🚀 Projetos em Destaque
 
-&lt;div align="center"&gt;
-
 ### 🔴 [Pokédex Full Stack](https://github.com/GustavoBenAbraham/pokedex-fullstack)
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.1.1-6DB33F?style=flat&logo=spring-boot&logoColor=white)

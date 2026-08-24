@@ -82,19 +82,25 @@ Sou um desenvolvedor **Java** em constante evolução, construindo meu caminho n
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
+&lt;div align="center"&gt;
 
-<!-- Projeto 1: Pokédex Full Stack -->
-<a href="https://github.com/GustavoBenAbraham/pokedex-fullstack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoBenAbraham&repo=pokedex-fullstack&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" />
-</a>
+### 🔴 [Pokédex Full Stack](https://github.com/GustavoBenAbraham/pokedex-fullstack)
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.1.1-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-<!-- Projeto 2: Task Manager -->
-<a href="https://github.com/GustavoBenAbraham/task-manager-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoBenAbraham&repo=task-manager-api&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" />
-</a>
+API REST com Java Spring Boot + Frontend com JavaScript puro consumindo a PokeAPI.
 
-</div>
+---
+
+### 📝 [Task Manager API](https://github.com/GustavoBenAbraham/task-manager-api)
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+API REST completa para gerenciamento de tarefas | Em desenvolvimento 🚧
+
+&lt;/div&gt;
 
 ---
 

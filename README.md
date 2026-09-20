@@ -1,180 +1,85 @@
-[README_PERFIL_ATUALIZADO.md](https://github.com/user-attachments/files/31384859/README_PERFIL_ATUALIZADO.md)
-<!-- Banner topo -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e40af&height=200&section=header&text=Gustavo%20Ben%20Abraham&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20%7C%20Full%20Stack%20in%20Progress&descAlignY=55&descSize=18" />
-</div>
+<h1 align="center">Olá, eu sou o Gustavo Ben Abraham! 👋</h1>
 
-<!-- Badges de contato e redes -->
-<div align="center">
-
-  <a href="https://github.com/GustavoBenAbraham">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavo-ben-abraham-silva-81058119b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=GustavoBenAbraham&color=3b82f6&style=flat-square&label=Profile+Views" />
-
-</div>
-
----
-
-## 👨‍💻 Sobre Mim
-
-Sou um desenvolvedor **Java** em constante evolução, construindo meu caminho no mundo da programação com foco em **backend**, **arquitetura de software** e **desenvolvimento full stack**.
-
-> *"Transformo cada sessão de estudo em prática, cada prática em projeto, e cada projeto em prova de progresso."*
-
-- 🎓 Estudante de Java, Programação Orientada a Objetos e Lógica de Programação
-- 🚀 Construindo projetos práticos para consolidar conhecimento
-- 📚 Explorando Spring Boot, APIs REST, bancos de dados e DevOps
-- 🎯 Objetivo: migrar de exercícios para aplicações completas e profissionais
-
----
-
-## 🛠️ Stack Tecnológica
-
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-4.1.1-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <a href="https://github.com/GustavoBenAbraham" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
 </p>
 
-### Banco de Dados
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/H2-003545?style=for-the-badge&logo=h2&logoColor=white" />
-</p>
-
-### Ferramentas & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<p align="center">
+  <b>Desenvolvedor em formação | Backend • Software Development • Tecnologia</b>
 </p>
 
 ---
-## 📊 GitHub Stats
 
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoBenAbraham&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=ff6b6b&currStreakLabel=3b82f6" />
-  
-  <br><br>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Total%20Contributions-62-3b82f6?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Current%20Streak-1%20day-ff6b6b?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Longest%20Streak-5%20days-22c55e?style=for-the-badge" />
-  </p>
+## 🔎 Sobre mim
 
-</div>
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e venho construindo minha trajetória em desenvolvimento de software através de projetos práticos.
 
+Atualmente, concentro meus estudos em **Java, Spring Boot, bancos de dados e desenvolvimento de APIs**, enquanto exploro diferentes tecnologias para consolidar minha base em engenharia de software.
+
+Meu objetivo neste perfil é mostrar não apenas o que estou estudando, mas principalmente **o que estou construindo, os problemas que estou tentando resolver e minha evolução contínua como desenvolvedor**.
+
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- ☕ Foco principal em **Java, Spring Boot, PostgreSQL e JPA/Hibernate**
+- 🚀 Buscando minha **primeira oportunidade profissional** na área de tecnologia
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Backend & Banco de Dados
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+### 🌐 Frontend & Outras Tecnologias
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### ⚙️ Controle de Versão & Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
 ## 🚀 Projetos em Destaque
 
-### 🔴 [Pokédex Full Stack](https://github.com/GustavoBenAbraham/pokedex-fullstack)
-![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.1.1-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### 📋 [Task Manager API](https://github.com/GustavoBenAbraham/task-manager-api)
+API REST desenvolvida para praticar conceitos avançados de desenvolvimento backend e arquitetura de aplicações robustas.
+* **Tecnologias:** Java • Spring Boot • Spring Data JPA • PostgreSQL • Maven • Flyway • Bean Validation
+* **Principais Conceitos:** Arquitetura em camadas, criação de APIs REST, operações CRUD completas, DTOs, validação de dados, tratamento global de exceções e migrações de banco de dados.
 
-API REST com Java Spring Boot + Frontend com JavaScript puro consumindo a PokeAPI.
+### 🎮 [Pokédex Full Stack](https://github.com/GustavoBenAbraham/pokedex-fullstack)
+Aplicação Full Stack criada para entender e aplicar a integração fluida entre frontend, backend e consumo de APIs externas.
+* **Tecnologias:** Java • Spring Boot • JavaScript • REST API
+* **Principais Conceitos:** Comunicação entre camadas, consumo de API externa, paginação, filtros e estruturação orientada a objetos (Controller, Service, DTO).
 
----
-
-### 📝 [Task Manager API](https://github.com/GustavoBenAbraham/task-manager-api)
-![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-API REST completa para gerenciamento de tarefas | Em desenvolvimento 🚧
-
+### 🍬 [Algoritmo Doce](https://github.com/GustavoBenAbraham/algoritmo-doce-v2)
+Projeto desenvolvido para resolver uma necessidade real de negócio: criar a presença digital para a confeitaria que construo junto com minha esposa. Representa minha visão de como a tecnologia pode ser aplicada para solucionar problemas práticos do dia a dia.
+* **Tecnologias:** TypeScript • Vite • HTML • CSS
 
 ---
 
-## 🏆 Projetos Concluídos
+## 📚 Trilha de Aprendizado
 
-### 🔴 [Pokédex Full Stack](https://github.com/GustavoBenAbraham/pokedex-fullstack)
-API REST com Java Spring Boot + Frontend com JavaScript puro consumindo a PokeAPI.
+Minha formação é construída de maneira progressiva e estruturada:
 
-- ✅ Listagem paginada de Pokémons
-- ✅ Busca por nome e ID
-- ✅ Filtro por tipo (Fogo, Água, Planta, etc.)
-- ✅ Modal de detalhes com estatísticas
-- ✅ Design responsivo e animações
-
-**Tecnologias:** Java 21, Spring Boot 4.1.1, HTML5, CSS3, JavaScript
-
----
-
-## 📚 Roadmap de Aprendizado
-
-```mermaid
-graph LR
-    A[Java Básico] --> B[POO]
-    B --> C[Coleções & Streams]
-    C --> D[Spring Boot]
-    D --> E[JPA & Banco de Dados]
-    E --> F[APIs REST]
-    F --> G[Segurança JWT]
-    G --> H[Testes]
-    H --> I[Docker & CI/CD]
-    I --> J[Microserviços]
-    style A fill:#1e3a5f,color:#fff
-    style D fill:#3b82f6,color:#fff
-    style F fill:#3b82f6,color:#fff
-    style I fill:#1e3a5f,color:#fff
-```
-
-- ✅ Java Básico & POO
-- ✅ Git & GitHub
-- ✅ Spring Boot & APIs REST
-- ✅ Consumo de APIs externas (RestTemplate)
-- ✅ Frontend com JavaScript puro
-- 🔄 Testes automatizados *(em andamento)*
-- ⏳ Docker & CI/CD
-- ⏳ Segurança com JWT
-- ⏳ Banco de dados PostgreSQL
-- ⏳ Mensageria & Microsserviços
-
----
-
-## 🎯 Conquistas & Destaques
-
-- 📝 Criei um script de automação (.bat + Git) para versionar exercícios Java automaticamente
-- 🐉 Desenvolvi uma **Pokédex Full Stack funcional** — API REST com Spring Boot + Frontend responsivo
-- 🏗️ Construindo uma **API REST de Task Manager** com Spring Boot, documentação Swagger e containerização Docker
-- 📖 Publicando meu aprendizado de forma pública e organizada
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-@GustavoBenAbraham-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoBenAbraham)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--8023--217X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-8023-217X)
-
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e40af&height=100&section=footer" />
-</div>
-
-<!--
-Nota: Alguns badges e estatísticas são gerados dinamicamente por serviços externos.
-Se algum não carregar, pode ser instabilidade temporária do serviço.
--->
+```text
+[ Fundamentos de Programação ] 
+             ↓
+[ Java e Orientação a Objetos ] 
+             ↓
+[ Desenvolvimento de APIs & Banco de Dados ] 
+             ↓
+[ Spring Boot & Persistência Avançada ] 
+             ↓
+[ Testes, Qualidade, Segurança & Docker ]

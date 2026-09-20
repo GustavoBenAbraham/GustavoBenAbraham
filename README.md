@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Gustavo Ben Abraham! 👋</h1>
+<h1 align="center">Olá, eu sou o Gustavo Ben ! 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-ben-abraham-81058119b/" target="_blank">

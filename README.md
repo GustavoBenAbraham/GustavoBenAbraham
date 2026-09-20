@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Gustavo Ben Abraham! 👋</h1>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/gustavo-ben-abraham-silva-81058119b/](https://www.linkedin.com/in/gustavo-ben-abraham-81058119b/)" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavo-ben-abraham-81058119b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/GustavoBenAbraham" target="_blank">
@@ -64,13 +64,18 @@ Solução de tecnologia aplicada para resolver uma necessidade real de mercado: 
 
 ---
 
+
+
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GustavoBenAbraham&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBenAbraham&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoBenAbraham&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBenAbraham&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
+
+<p align="center"><i>"Aprender → Construir → Testar → Melhorar → Repetir."</i></p>
 ---
 
 <p align="center"><i>"Aprender → Construir → Testar → Melhorar → Repetir."</i></p>

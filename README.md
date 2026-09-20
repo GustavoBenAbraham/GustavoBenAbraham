@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Gustavo Ben Abraham! 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-ben-abraham-silva-81058119b/" target="_blank">
+  <a href="[https://www.linkedin.com/in/gustavo-ben-abraham-silva-81058119b/](https://www.linkedin.com/in/gustavo-ben-abraham-81058119b/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/GustavoBenAbraham" target="_blank">

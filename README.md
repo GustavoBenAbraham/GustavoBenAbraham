@@ -64,18 +64,5 @@ Solução de tecnologia aplicada para resolver uma necessidade real de mercado: 
 
 ---
 
-
-
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoBenAbraham&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBenAbraham&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 <p align="center"><i>"Aprender → Construir → Testar → Melhorar → Repetir."</i></p>
----
 
-<p align="center"><i>"Aprender → Construir → Testar → Melhorar → Repetir."</i></p>

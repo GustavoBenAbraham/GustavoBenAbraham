@@ -10,76 +10,67 @@
 </p>
 
 <p align="center">
-  <b>Desenvolvedor em formação | Backend • Software Development • Tecnologia</b>
+  <b>Desenvolvedor Backend Junior | Java • Spring Boot • Arquitetura de Software</b>
 </p>
 
 ---
 
 ## 🔎 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e venho construindo minha trajetória em desenvolvimento de software através de projetos práticos.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e construo minha carreira focando em **boas práticas de engenharia de software, desenvolvimento backend robusto e criação de APIs escaláveis**.
 
-Atualmente, concentro meus estudos em **Java, Spring Boot, bancos de dados e desenvolvimento de APIs**, enquanto exploro diferentes tecnologias para consolidar minha base em engenharia de software.
-
-Meu objetivo neste perfil é mostrar não apenas o que estou estudando, mas principalmente **o que estou construindo, os problemas que estou tentando resolver e minha evolução contínua como desenvolvedor**.
+Atualmente, concentro minha stack principal em **Java, Spring Boot, PostgreSQL e padrões de projeto**, sempre buscando alinhar o código limpo com a resolução de problemas de negócio reais.
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- ☕ Foco principal em **Java, Spring Boot, PostgreSQL e JPA/Hibernate**
-- 🚀 Buscando minha **primeira oportunidade profissional** na área de tecnologia
+- ☕ Foco em **Java, Spring Boot, Spring Data JPA, Hibernate e PostgreSQL**
+- 🧪 Praticante de **qualidade de software, testes e arquitetura em camadas**
+- 🚀 Em busca da minha primeira oportunidade como **Desenvolvedor Backend Júnior**
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 💻 Backend & Banco de Dados
+### 💻 Backend & Ecossistema Java
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
-### 🌐 Frontend & Outras Tecnologias
+### 🌐 Frontend & Ferramentas de Apoio
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### ⚙️ Controle de Versão & Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Principais Projetos
 
 ### 📋 [Task Manager API](https://github.com/GustavoBenAbraham/task-manager-api)
-API REST desenvolvida para praticar conceitos avançados de desenvolvimento backend e arquitetura de aplicações robustas.
+API REST voltada para alta confiabilidade e boas práticas de desenvolvimento backend, simulando um ambiente corporativo de gerenciamento de tarefas.
 * **Tecnologias:** Java • Spring Boot • Spring Data JPA • PostgreSQL • Maven • Flyway • Bean Validation
-* **Principais Conceitos:** Arquitetura em camadas, criação de APIs REST, operações CRUD completas, DTOs, validação de dados, tratamento global de exceções e migrações de banco de dados.
+* **Diferenciais Técnicos:** Arquitetura em camadas bem definida, tratamentos globais de exceção, documentação e migrações de banco de dados versionadas.
 
 ### 🎮 [Pokédex Full Stack](https://github.com/GustavoBenAbraham/pokedex-fullstack)
-Aplicação Full Stack criada para entender e aplicar a integração fluida entre frontend, backend e consumo de APIs externas.
+Aplicação integrada focada na comunicação eficiente entre front e back, consumindo serviços externos e estruturando regras de negócio em Java.
 * **Tecnologias:** Java • Spring Boot • JavaScript • REST API
-* **Principais Conceitos:** Comunicação entre camadas, consumo de API externa, paginação, filtros e estruturação orientada a objetos (Controller, Service, DTO).
+* **Diferenciais Técnicos:** Consumo de APIs externas, paginação, filtros avançados e separação clara de responsabilidades (Controller, Service, DTO).
 
 ### 🍬 [Algoritmo Doce](https://github.com/GustavoBenAbraham/algoritmo-doce-v2)
-Projeto desenvolvido para resolver uma necessidade real de negócio: criar a presença digital para a confeitaria que construo junto com minha esposa. Representa minha visão de como a tecnologia pode ser aplicada para solucionar problemas práticos do dia a dia.
+Solução de tecnologia aplicada para resolver uma necessidade real de mercado: a presença digital do negócio de confeitaria que desenvolvo com minha esposa.
 * **Tecnologias:** TypeScript • Vite • HTML • CSS
 
 ---
 
-## 📚 Trilha de Aprendizado
+## 📈 Estatísticas do GitHub
 
-Minha formação é construída de maneira progressiva e estruturada:
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GustavoBenAbraham&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBenAbraham&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-```text
-[ Fundamentos de Programação ] 
-             ↓
-[ Java e Orientação a Objetos ] 
-             ↓
-[ Desenvolvimento de APIs & Banco de Dados ] 
-             ↓
-[ Spring Boot & Persistência Avançada ] 
-             ↓
-[ Testes, Qualidade, Segurança & Docker ]
+---
+
+<p align="center"><i>"Aprender → Construir → Testar → Melhorar → Repetir."</i></p>

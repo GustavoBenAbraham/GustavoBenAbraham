@@ -1,68 +1,108 @@
-<h1 align="center">Olá, eu sou o Gustavo Ben ! 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-ben-abraham-81058119b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/GustavoBenAbraham" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-</p>
+# Olá, eu sou o Gustavo Ben 👋
 
-<p align="center">
-  <b>Desenvolvedor Backend Junior | Java • Spring Boot • Arquitetura de Software</b>
-</p>
+**Desenvolvedor em formação · Foco em backend Java e Spring Boot**
 
----
+Estudante de Análise e Desenvolvimento de Sistemas, construindo aplicações web e desktop e aplicando programação a necessidades de negócios reais.
 
-## 🔎 Sobre mim
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ben-abraham-silva-81058119b/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/GustavoBenAbraham?tab=repositories&q=&type=source&language=java)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/GustavoBenAbraham/task-manager-api)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/GustavoBenAbraham/cuscuzeria-gourmet)
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e construo minha carreira focando em **boas práticas de engenharia de software, desenvolvimento backend robusto e criação de APIs escaláveis**.
+</div>
 
-Atualmente, concentro minha stack principal em **Java, Spring Boot, PostgreSQL e padrões de projeto**, sempre buscando alinhar o código limpo com a resolução de problemas de negócio reais.
+## Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- ☕ Foco em **Java, Spring Boot, Spring Data JPA, Hibernate e PostgreSQL**
-- 🧪 Praticante de **qualidade de software, testes e arquitetura em camadas**
-- 🚀 Em busca da minha primeira oportunidade como **Desenvolvedor Backend Júnior**
+Meu foco principal é o desenvolvimento backend com **Java, Spring Boot e PostgreSQL**. Nos meus projetos, pratico APIs REST, persistência de dados, validação, autenticação e testes. Também desenvolvo interfaces com React e TypeScript para acompanhar a aplicação desde a regra de negócio até a experiência de quem a utiliza.
 
----
+Além dos estudos, aplico esses conhecimentos em projetos ligados a negócios reais: a presença digital da **Algoritmo Doce**, confeitaria que desenvolvo com minha esposa, e o site da **Cuscuzeria Gourmet**, realizado como projeto de trabalho.
 
-## 🛠️ Tecnologias e Ferramentas
+Busco uma oportunidade como **Desenvolvedor Backend Júnior**, com interesse em contribuir, receber feedback e aprofundar minha experiência com desenvolvimento de software.
 
-### 💻 Backend & Ecossistema Java
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+## Projetos em destaque
 
-### 🌐 Frontend & Ferramentas de Apoio
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### [DinDin de Giro](https://github.com/GustavoBenAbraham/task-manager-api)
 
----
+Aplicação para organizar as finanças de pessoas autônomas, MEIs e pequenos negócios, com espaços pessoal e empresarial separados.
 
-## 🚀 Principais Projetos
+- Cadastro e login com JWT, contas, categorias, lançamentos e dashboard financeiro.
+- Compartilhamento de acesso ao negócio por convite, sem expor o espaço pessoal.
+- Contas a pagar e receber, com distinção entre valores previstos e movimentações realizadas.
+- **Stack:** Java, Spring Boot, Spring Security, PostgreSQL, Flyway, React e Docker.
+- **Prática:** regras de negócio, autorização de acesso, persistência e integração entre frontend e backend.
 
-### 📋 [Task Manager API](https://github.com/GustavoBenAbraham/task-manager-api)
-API REST voltada para alta confiabilidade e boas práticas de desenvolvimento backend, simulando um ambiente corporativo de gerenciamento de tarefas.
-* **Tecnologias:** Java • Spring Boot • Spring Data JPA • PostgreSQL • Maven • Flyway • Bean Validation
-* **Diferenciais Técnicos:** Arquitetura em camadas bem definida, tratamentos globais de exceção, documentação e migrações de banco de dados versionadas.
+[Ver código e documentação](https://github.com/GustavoBenAbraham/task-manager-api) · [Abrir aplicação](https://task-manager-api-wmx2.onrender.com)
 
-### 🎮 [Pokédex Full Stack](https://github.com/GustavoBenAbraham/pokedex-fullstack)
-Aplicação integrada focada na comunicação eficiente entre front e back, consumindo serviços externos e estruturando regras de negócio em Java.
-* **Tecnologias:** Java • Spring Boot • JavaScript • REST API
-* **Diferenciais Técnicos:** Consumo de APIs externas, paginação, filtros avançados e separação clara de responsabilidades (Controller, Service, DTO).
+<sub>O repositório mantém o nome `task-manager-api`, mas o projeto evoluiu para o DinDin de Giro. A aplicação hospedada pode levar alguns instantes para responder após inatividade.</sub>
 
-### 🍬 [Algoritmo Doce](https://github.com/GustavoBenAbraham/algoritmo-doce-v2)
-Solução de tecnologia aplicada para resolver uma necessidade real de mercado: a presença digital do negócio de confeitaria que desenvolvo com minha esposa.
-* **Tecnologias:** TypeScript • Vite • HTML • CSS
+### [Cuscuzeria Gourmet](https://github.com/GustavoBenAbraham/cuscuzeria-gourmet) · Projeto de trabalho
 
----
+Site institucional e cardápio digital desenvolvido para um restaurante de culinária nordestina, com identidade visual própria e navegação responsiva.
 
-<p align="center"><i>"Aprender → Construir → Testar → Melhorar → Repetir."</i></p>
+- Cardápio com 64 opções, busca, categorias e carrinho persistente no navegador.
+- Mensagem preparada para WhatsApp e acesso ao delivery pelo iFood.
+- **Stack:** React, TypeScript, Vite, Tailwind CSS, Zod, Vitest e Playwright.
+- **Prática:** transformar necessidades de um negócio em interface, estruturar dados do cardápio, testar fluxos e publicar o frontend.
 
+[Ver código e prints](https://github.com/GustavoBenAbraham/cuscuzeria-gourmet) · [Visitar site](https://gustavobenabraham.github.io/cuscuzeria-gourmet-site/)
+
+### [Algoritmo Doce v2](https://github.com/GustavoBenAbraham/algoritmo-doce-v2) · Negócio próprio
+
+Projeto em evolução para a presença digital da confeitaria artesanal que desenvolvo com minha esposa. Uso as necessidades do negócio como contexto para aprender e aprimorar a aplicação.
+
+- **Stack:** TypeScript, JavaScript, HTML, CSS e Vite.
+- **Prática:** organização de código, tipagem, evolução da interface e desenvolvimento orientado às necessidades de um negócio real.
+
+[Ver projeto](https://github.com/GustavoBenAbraham/algoritmo-doce-v2)
+
+<details>
+<summary><strong>Outros projetos de estudo: Java desktop e integração de APIs</strong></summary>
+
+### [Tarot.exe](https://github.com/GustavoBenAbraham/tarot-exe)
+
+Aplicativo desktop em Java e JavaFX com estética Windows 95/98, leituras offline, histórico e integração opcional com Ollama.
+
+- **Stack:** Java, JavaFX, Maven, JUnit e Ollama.
+- **Prática:** interfaces desktop, armazenamento local, chamadas HTTP, testes e distribuição de um aplicativo para Windows.
+
+[Ver código, capturas e aprendizados](https://github.com/GustavoBenAbraham/tarot-exe) · [Consultar versões](https://github.com/GustavoBenAbraham/tarot-exe/releases)
+
+### [Pokédex Full Stack](https://github.com/GustavoBenAbraham/pokedex-fullstack)
+
+Aplicação com backend Spring Boot e frontend JavaScript que consulta a PokeAPI, com busca, paginação, filtros e detalhes dos Pokémon.
+
+- **Stack:** Java, Spring Boot, JavaScript, HTML e CSS.
+- **Prática:** consumo de API externa, camadas Controller/Service/DTO e comunicação entre frontend e backend.
+
+[Ver projeto](https://github.com/GustavoBenAbraham/pokedex-fullstack)
+
+</details>
+
+## Tecnologias que utilizo e estudo
+
+| Área | Tecnologias |
+| --- | --- |
+| Backend | Java, Spring Boot, Spring Web, Spring Security, Spring Data JPA e Hibernate |
+| Dados | PostgreSQL e migrações com Flyway |
+| Frontend | React, TypeScript, JavaScript, HTML, CSS e Tailwind CSS |
+| Qualidade | JUnit, Vitest, Playwright e validação de dados |
+| Ferramentas | Git, GitHub, Maven, Vite e Docker |
+| Outras experiências | JavaFX e integração com IA local via Ollama |
+
+## O que venho aprofundando
+
+- Modelagem de regras de negócio e separação de responsabilidades.
+- Autenticação, autorização e isolamento de dados entre usuários.
+- Testes de comportamento, tratamento de erros e validação de entradas.
+- Integração entre API, banco de dados e interface.
+- Documentação, publicação e manutenção de aplicações.
+
+Meus repositórios registram esse processo de aprendizado, com projetos em diferentes estágios de evolução e documentação sobre funcionalidades, limites e próximos passos.
+
+## Contato
+
+Vamos conversar sobre desenvolvimento, projetos e oportunidades:
+
+[**LinkedIn — Gustavo Ben Abraham Silva**](https://www.linkedin.com/in/gustavo-ben-abraham-silva-81058119b/)

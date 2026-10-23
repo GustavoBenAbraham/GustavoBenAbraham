@@ -1,3 +1,5 @@
+**Português** | [English](README.en.md)
+
 <div align="center">
 
 # Olá, eu sou o Gustavo Ben 👋
@@ -22,6 +24,14 @@ Além dos estudos, aplico esses conhecimentos em projetos ligados a negócios re
 Busco uma oportunidade como **Desenvolvedor Backend Júnior**, com interesse em contribuir, receber feedback e aprofundar minha experiência com desenvolvimento de software.
 
 ## Projetos em destaque
+
+### [Helpdesk API](https://github.com/GustavoBenAbraham/helpdesk-api)
+
+API de chamados de suporte com permissões de cliente e agente, fluxo de status, comentários e histórico.
+
+- **Stack:** Java 21, Spring Boot, Spring Security, JPA, Flyway e H2, com configuração para PostgreSQL.
+- **Prática:** autorização por proprietário, regras de negócio, transações e testes de integração HTTP.
+
 
 ### [DinDin de Giro](https://github.com/GustavoBenAbraham/task-manager-api)
 
@@ -62,10 +72,10 @@ Projeto em evolução para a presença digital da confeitaria artesanal que dese
 
 ### [Tarot.exe](https://github.com/GustavoBenAbraham/tarot-exe)
 
-Aplicativo desktop em Java e JavaFX com estética Windows 95/98, leituras offline, histórico e integração opcional com Ollama.
+Aplicativo desktop em Java e JavaFX com estética Windows 95/98, leituras locais, histórico e estudos de probabilidade do sorteio. A integração com IA foi removida da versão atual.
 
-- **Stack:** Java, JavaFX, Maven, JUnit e Ollama.
-- **Prática:** interfaces desktop, armazenamento local, chamadas HTTP, testes e distribuição de um aplicativo para Windows.
+- **Stack:** Java, JavaFX, Maven e JUnit.
+- **Prática:** interfaces desktop, armazenamento local, sorteios aleatórios, probabilidade e testes.
 
 [Ver código, capturas e aprendizados](https://github.com/GustavoBenAbraham/tarot-exe) · [Consultar versões](https://github.com/GustavoBenAbraham/tarot-exe/releases)
 
